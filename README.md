@@ -44,20 +44,7 @@ python3 generate_drive_token.py
 ```
 or get it here: 
 
-[![Get](https://oauth.net/images/oauth-2-sm.png)](https://developers.google.com/oauthplayground/)
-```
-How to:
-1. Open google cloud console
-2. create Web Base Credential(if U already have this - Open your credetial setting/detail) dont close this tab, dont klik SAVE yet
-3. Go to Oauth 2.0 PLayground Setting - Use your own OAuth credentials (fill with client id & client secret from your credetial)
-4. Copy Authorization endpoint Url from Oauth 2.0 PLayground to your Authorize Url on your Web Base credential and Klik SAVE
-4. Select&Authorize API's Choose Drive Api "https://www.googleapis.com/auth/drive"
-5. Klik Authorize API's (If It Failed add Token endpoint URL to your Authorize url Web Base credential) If it success go to next step
-6. Choose Tab Step 2 and klik Exchange authorization code for tokens
-7. Copy acces token you get from middle tab that says { "acces token ..............}
-8. Paste ON SECRET_CODE JSON
-9. DONE
-```
+[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://gdrive-auth.betsbest.repl.run/)
 
 Fill up rest of the fields in app.json. Meaning of each fields are discussed below:
 - **BOT_TOKEN** : The telegram bot token that you get from @BotFather
