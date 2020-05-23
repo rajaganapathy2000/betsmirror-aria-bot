@@ -8,7 +8,7 @@
     "googledrive"
   ],
   "repository": "https://github.com/betsbest/betsmirror",
-  "success_url": "https://telegram.dog/LeechYourTorrentsBot",
+  "success_url": "https://t.me/betsmirrortodrive_Bot",
   "website": "https://github.com/betsbest/betsmirror",  
   "env": {
     "BOT_TOKEN": {
