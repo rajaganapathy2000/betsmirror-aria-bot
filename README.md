@@ -24,9 +24,6 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/betsbest/betsmirror)
 
-
- 
-
 ## Getting Google OAuth API credential file
 
 - Visit the [Google Cloud Console](https://console.developers.google.com/apis/credentials)
@@ -68,11 +65,9 @@ python3 generate_string_session.py
 ```
 OR use online terminal
 
-[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://repl.it/github/betsbest/betsmirror)
+[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://gen-session.betsbest.repl.run)
 
 Note: You can limit maximum concurrent downloads by changing the value of MAX_CONCURRENT_DOWNLOADS in aria.sh. By default, it's set to 2
- 
-
 
 # Youtube-dl authentication using .netrc file
 For using your premium accounts in youtube-dl, edit the netrc file (in the root directory of this repository) according to following format:
