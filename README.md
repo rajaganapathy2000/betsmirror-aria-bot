@@ -44,7 +44,7 @@ python3 generate_drive_token.py
 ```
 or get it here: 
 
-[![Get](https://developers.google.com/oauthplayground/assets/images/developers-logo.svg)](https://developers.google.com/oauthplayground/)
+[![Get](https://oauth.net/images/oauth-2-sm.png)](https://developers.google.com/oauthplayground/)
 
 
 Fill up rest of the fields in app.json. Meaning of each fields are discussed below:
