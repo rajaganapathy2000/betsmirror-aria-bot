@@ -81,7 +81,7 @@ python3 generate_string_session.py
 ```
 OR use online terminal
 
-[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://gen-session.cw4rr10r.repl.run)
+[![Run](https://img.shields.io/badge/Run%20Online-Black)](https://repl.it/github/betsbest/betsmirror)
 
 Note: You can limit maximum concurrent downloads by changing the value of MAX_CONCURRENT_DOWNLOADS in aria.sh. By default, it's set to 2
  
