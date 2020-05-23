@@ -37,6 +37,7 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 - Search for Drive and enable it if it is disabled
 - Finally, run the script to generate auth json for Google Drive:
 
+https://developers.google.com/oauthplayground/
 ```
 pip install oauth2client
 ```
