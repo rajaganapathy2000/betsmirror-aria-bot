@@ -36,14 +36,17 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 - Visit [Google API page](https://console.developers.google.com/apis/library)
 - Search for Drive and enable it if it is disabled
 - Finally, run the script to generate auth json for Google Drive:
-
-https://developers.google.com/oauthplayground/
 ```
 pip install oauth2client
 ```
 ```
 python3 generate_drive_token.py
 ```
+or get it here: 
+```
+https://developers.google.com/oauthplayground/
+```
+
 Fill up rest of the fields in app.json. Meaning of each fields are discussed below:
 - **BOT_TOKEN** : The telegram bot token that you get from @BotFather
 - **GDRIVE_FOLDER_ID** : This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.
