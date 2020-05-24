@@ -4,7 +4,6 @@ import threading
 import time
 import aria2p
 import telegram.ext as tg
-from dotenv import load_dotenv
 import socket
 
 socket.setdefaulttimeout(600)
