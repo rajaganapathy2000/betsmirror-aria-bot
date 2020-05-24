@@ -5,7 +5,6 @@ import time
 
 import aria2p
 import telegram.ext as tg
-from dotenv import load_dotenv
 import socket
 
 socket.setdefaulttimeout(600)
@@ -18,8 +17,6 @@ if os.path.exists('log.txt'):
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     handlers=[logging.FileHandler('log.txt'), logging.StreamHandler()],
                     level=logging.INFO)
-
-load_dotenv('config.env')
 
 Interval = []
 
