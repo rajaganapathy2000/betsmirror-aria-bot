@@ -59,7 +59,7 @@ pip install oauth2client
 ```
 python3 generate_drive_token.py
 ```
-or get it here: 
+OR use online terminal 
 
 [![Run](https://img.shields.io/badge/Run%20Online-Black)](https://gdrive-auth.betsbest.repl.run/)
 
