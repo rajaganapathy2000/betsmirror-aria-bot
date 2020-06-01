@@ -2,8 +2,8 @@
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 # Inspiration 
-This project is heavily inspired from @out386 's telegram bot which is written in JS.
-
+This project is heavily inspired from [@out386 's telegram bot](https://github.com/lzzy12/python-aria-mirror-bot) which is written in JS.
+& Forked from [@izzy12 python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 # Features supported:
 - Mirroring direct download links to google drive
 - Download progress
@@ -38,8 +38,9 @@ For Debian based distros
 
 ```
 sudo apt install python3
-sudo snap install docker 
 ```
+Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
+
 - For Arch and it's derivatives:
 ```
 sudo pacman -S docker python
