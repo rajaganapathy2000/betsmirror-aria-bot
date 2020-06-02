@@ -3,7 +3,7 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 
 # Inspiration 
 This project is heavily inspired from [@out386 's telegram bot](https://github.com/out386/aria-telegram-mirror-bot) which is written in JS.
-& Forked from [@izzy12 python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
+& Edited Forked from [@izzy12 python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 # Features supported:
 - Mirroring direct download links to google drive
 - Download progress
@@ -29,7 +29,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/lzzy12/python-aria-mirror-bot mirror-bot/
+git clone https://github.com/betsbest/betsmirror-aria-bot
 cd mirror-bot
 ```
 
