@@ -7,9 +7,9 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/betsbest/betsmirror",
-  "success_url": "https://t.me/betsmirrortodrive_Bot",
-  "website": "https://github.com/betsbest/betsmirror",  
+  "repository": "https://github.com/rajaganapathy2000/betsmirror-aria-bot",
+  "success_url": "https://t.me/Sdfmirrorbot",
+  "website": "https://github.com/rajaganapathy2000/betsmirror-aria-bot",  
   "env": {
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
